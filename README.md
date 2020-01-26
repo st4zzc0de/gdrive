@@ -1,5 +1,5 @@
-# All Files On Repository Deleted
-**Reason:** complaint????
+# Files On Repository Deleted
+**Reason:** someone complaint...????
 
 ------------------------------------------------------------------------
 
@@ -15,15 +15,15 @@
 
 drive.google.com/file/d/**1SgAQF4oTIF6h8CroLc9BZ7Z65LzNYwBK**/view
 
-(the text bold above is a Google Drive ID)
+(the bold text above is a Google Drive ID)
 
 **Example Using:**
-- **Original Link:** `https://drive.google.com/file/d/1SgAQF4oTIF6h8CroLc9BZ7Z65LzNYwBK/view`
+- **Original URL:** `https://drive.google.com/file/d/1SgAQF4oTIF6h8CroLc9BZ7Z65LzNYwBK/view`
 - **Executing:** `https://yoursite.com/dl/1SgAQF4oTIF6h8CroLc9BZ7Z65LzNYwBK`
 
 **#NOTE:** Just copy `ID Google Drive` link and execute with your site url project, but don't forget to adding path url **/dl/** before the ID.
 
-`e.g: https://yoursite.com/dl/ID-GOOGLE-DRIVE`
+`https://yoursite.com/dl/ID-GOOGLE-DRIVE`
 
 *But you can change the url download path {/dl/} with editing file .htaccess* :)
 
@@ -32,7 +32,7 @@ drive.google.com/file/d/**1SgAQF4oTIF6h8CroLc9BZ7Z65LzNYwBK**/view
 
 ------------------------------------------------------------------------
 
-# Websites
+# Website
 - https://getdl.herokuapp.com
 
 - https://gddl.herokuapp.com
