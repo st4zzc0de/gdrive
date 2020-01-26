@@ -1,5 +1,5 @@
-# All Files Deleted
-**Reason:** ????
+# All Files On Repository Deleted
+**Reason:** complaint????
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ drive.google.com/file/d/**1SgAQF4oTIF6h8CroLc9BZ7Z65LzNYwBK**/view
 
 `e.g: https://yoursite.com/dl/ID-GOOGLE-DRIVE`
 
-*But you can change the url direct download path {/dl/} with edit file .htaccess* :)
+*But you can change the url download path {/dl/} with editing file .htaccess* :)
 
 **My Project Tester:**
 *https://getdl.herokuapp.com/dl/1SgAQF4oTIF6h8CroLc9BZ7Z65LzNYwBK*
