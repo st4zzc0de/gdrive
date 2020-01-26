@@ -13,13 +13,13 @@
 # How to use:
 *Simple, you just copy `ID of Google Drive` link and execute with your site project.*
 
-drive.google.com/file/d/**1SgAQF4oTIF6h8CroLc9BZ7Z65LzNYwBK**/view
+drive.google.com/file/d/**1BP55XZethh7yLzw43D7TC-hae9YMkYwC**/view
 
 (the bold text above is a Google Drive ID)
 
 **Example Using:**
-- **Original URL:** `https://drive.google.com/file/d/1SgAQF4oTIF6h8CroLc9BZ7Z65LzNYwBK/view`
-- **Executing:** `https://yoursite.com/dl/1SgAQF4oTIF6h8CroLc9BZ7Z65LzNYwBK`
+- **Original URL:** `https://drive.google.com/file/d/1BP55XZethh7yLzw43D7TC-hae9YMkYwC/view`
+- **Executing:** `https://yoursite.com/dl/1BP55XZethh7yLzw43D7TC-hae9YMkYwC`
 
 **#NOTE:** Just copy `ID Google Drive` link and execute with your site url project, but don't forget to adding path url **/dl/** before the ID.
 
@@ -28,13 +28,13 @@ drive.google.com/file/d/**1SgAQF4oTIF6h8CroLc9BZ7Z65LzNYwBK**/view
 *But you can change the url download path {/dl/} with editing file .htaccess* :)
 
 **My Project Tester:**
-*https://getdl.herokuapp.com/dl/1SgAQF4oTIF6h8CroLc9BZ7Z65LzNYwBK*
+*https://gddl.herokuapp.com/dl/1BP55XZethh7yLzw43D7TC-hae9YMkYwC*
 
 ------------------------------------------------------------------------
 
 # Website
-- https://getdl.herokuapp.com
-
 - https://gddl.herokuapp.com
+
+- https://getdl.herokuapp.com
 
 *(c) 2020 ./st4zz*
