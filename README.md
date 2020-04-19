@@ -33,8 +33,6 @@ drive.google.com/file/d/**1BP55XZethh7yLzw43D7TC-hae9YMkYwC**/view
 ------------------------------------------------------------------------
 
 # Website
-- https://udel.me
-
 - https://gddl.herokuapp.com
 
 - https://getdl.herokuapp.com
