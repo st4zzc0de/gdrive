@@ -13,13 +13,13 @@
 # How to use:
 *Simple, you just copy `ID of Google Drive` link and execute with your site project.*
 
-drive.google.com/file/d/**1BP55XZethh7yLzw43D7TC-hae9YMkYwC**/view
+drive.google.com/file/d/**1_uWd92AlBL4pItkY1mwW4yuDKMRW1Z7e**/view
 
 (the bold text above is a Google Drive ID)
 
 **Example Using:**
-- **Original URL:** `https://drive.google.com/file/d/1BP55XZethh7yLzw43D7TC-hae9YMkYwC/view`
-- **Executing:** `https://yoursite.com/dl/1BP55XZethh7yLzw43D7TC-hae9YMkYwC`
+- **Original URL:** `https://drive.google.com/file/d/1_uWd92AlBL4pItkY1mwW4yuDKMRW1Z7e/view`
+- **Executing:** `https://yoursite.com/dl/1_uWd92AlBL4pItkY1mwW4yuDKMRW1Z7e`
 
 **#NOTE:** Just copy `ID Google Drive` link and execute with your site url project, but don't forget to adding path url **/dl/** before the ID.
 
@@ -28,7 +28,7 @@ drive.google.com/file/d/**1BP55XZethh7yLzw43D7TC-hae9YMkYwC**/view
 *But you can change the url download path {/dl/} with editing file .htaccess* :)
 
 **My Project Tester:**
-*https://gddl.herokuapp.com/dl/1BP55XZethh7yLzw43D7TC-hae9YMkYwC*
+*https://gddl.herokuapp.com/dl/1_uWd92AlBL4pItkY1mwW4yuDKMRW1Z7e*
 
 ------------------------------------------------------------------------
 
