@@ -1,5 +1,5 @@
-# Files Deleted
-**Reason:** Bad code...
+# All Files Deleted
+**Reason:** Secret...!! 😓
 
 ------------------------------------------------------------------------
 
@@ -25,9 +25,9 @@ drive.google.com/file/d/**1_uWd92AlBL4pItkY1mwW4yuDKMRW1Z7e**/view
 
 `https://yoursite.com/dl/ID-GOOGLE-DRIVE`
 
-*But you can change the url download path {/dl/} with editing file .htaccess* :)
+*But you can change the url download path {/dl/} with editing the file .htaccess* 🤭
 
-**My Project Tester:**
+**Testing Link:**
 *https://gddl.herokuapp.com/dl/1_uWd92AlBL4pItkY1mwW4yuDKMRW1Z7e*
 
 ------------------------------------------------------------------------
@@ -35,6 +35,4 @@ drive.google.com/file/d/**1_uWd92AlBL4pItkY1mwW4yuDKMRW1Z7e**/view
 # Website
 - https://gddl.herokuapp.com
 
-- https://getdl.herokuapp.com
-
-*(c) 2020 ./st4zz*
+*(c) 2020 GDDL Project by st4zz*
